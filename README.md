@@ -5,7 +5,7 @@ Commands that I used for this repo:
 
 ___
 
-git config --global user.name olexxxxx
+⋅⋅⋅⋅* git config --global user.name olexxxxx
 git config --global user.email makedonskyi@knu.ua
 git init
 git add .
